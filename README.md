@@ -11,13 +11,22 @@
 <table>
   <tr>
    <td valign="top">
-      <img align="center" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-application-pack-logos-3915172.png?f=webp"/> [My Profile](https://www.facebook.com/tphat99/)
+      <a href="https://www.facebook.com/tphat99/">
+         <img align="center" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-application-pack-logos-3915172.png?f=webp"/> My Profile
+      </a>
    </td>
-    <td valign="top"><img align="center" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-logo-download-in-png-blend-fbx-gltf-file-formats--communication-corporation-social-media-pack-logos-3915173.png?f=webp"/> [My Profile](https://www.linkedin.com/in/tonyphatdo/)</td>
+    <td valign="top">
+      <a href="https://www.linkedin.com/in/tonyphatdo/">
+         <img align="center" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-logo-download-in-png-blend-fbx-gltf-file-formats--communication-corporation-social-media-pack-logos-3915173.png?f=webp"/> 
+         My Profile
+      </a>
+   </td>
   </tr>
   <tr>
    <td valign="top">
-      <img align="center" alt="Instagram" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-pack-logos-3915166.png?f=webp"/> [My Profile](https://www.instagram.com/_ttphat_139/)
+      <a href="https://www.instagram.com/_ttphat_139/">
+         <img align="center" alt="Instagram" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-pack-logos-3915166.png?f=webp"/> My Profile
+      </a>
    </td>
       <td valign="top"><img align="center" alt="Phone number" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-whatsapp-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-whats-app-pack-logos-3915171.png?f=webp"/> 0826240270
    </td>
