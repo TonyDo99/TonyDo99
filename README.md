@@ -8,20 +8,27 @@
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="Linked profile" title="My Linkedin profile" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?color=55960c&style=for-the-badge&labelColor=488207&logo=linkedin"/></a> 
+         <img alt="Linked profile" title="My Linkedin profile" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?color=55960c&style=for-the-badge&labelColor=488207&logo=linkedin"/>
+      </a>
    </p>
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-nestjs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-typescript-node-js-server-side-coding-lang-pack-logos-icons-7578005.png?f=webp"/>
-<br />
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp"/>
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html5-logo-dom-markup-language-frontend-coding-lang-pack-logos-icons-7578018.png?f=webp"/>
+<img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-3d-icon-download-in-png-blend-fbx-gltf-file-formats--facebook-logo-native-javascript-library-user-interfaces-coding-lang-pack-logos-icons-7578010.png?f=webp"/>
+<img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png?f=webp"/>
+<img align="left" alt="Nestjs" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-nestjs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-typescript-node-js-server-side-coding-lang-pack-logos-icons-7578005.png?f=webp"/>
+<img align="left" alt="Nestjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-git-3d-icon-download-in-png-blend-fbx-gltf-file-formats--github-logo-version-control-system-vcs-coding-lang-pack-logos-icons-7578021.png?f=webp"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-sql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-data-management-relational-logo-analysis-coding-lang-pack-logos-icons-7578022.png?f=webp"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg"/>
+          
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
