@@ -1,4 +1,4 @@
-# 🏄‍♂️ Tony Đỗ
+# :man_mechanic: Tony Đỗ
 
 **`Fullstack Developer`**
 
@@ -6,9 +6,15 @@
 
 > I thrive in dynamic environments where I can leverage my problem-solving skills and attention to detail to deliver high-quality solutions. Over the years, I’ve honed my ability to work with diverse technologies, collaborate with cross-functional teams, and adapt to evolving industry trends.
 
-### Contact me:
+### :thought_balloon: Find me here:
 
-- <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-whatsapp-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-pack-logos-4642760.png?f=webp"/>: 0826240270
+- <img align="center" alt="Phone number" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-whatsapp-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-pack-logos-4642760.png?f=webp"/> 0826240270
+
+- <img align="center" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-logo-download-in-png-blend-fbx-gltf-file-formats--communication-corporation-social-media-pack-logos-3915173.png?f=webp"/> [My Profile](https://www.linkedin.com/in/tonyphatdo/)
+
+- <img align="center" alt="Instagram" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-pack-logos-4642749.png?f=webp"/> [My Profile](https://www.instagram.com/_ttphat_139/)
+
+- <img align="center" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-3d-logo-download-in-png-blend-fbx-gltf-file-formats--fb-social-media-pack-logos-4642756.png?f=webp"/> [My Profile](https://www.facebook.com/tphat99/)
 
  <!-- <p align="left">
      <a href="https://www.linkedin.com/in/tonyphatdo/">
@@ -18,7 +24,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+### :desktop_computer: Languages and Tools
 
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-vue-angular-coding-lang-pack-logos-icons-7577991.png?f=webp"/>
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp"/>
