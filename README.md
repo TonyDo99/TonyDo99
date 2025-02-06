@@ -6,11 +6,15 @@
 
 > I thrive in dynamic environments where I can leverage my problem-solving skills and attention to detail to deliver high-quality solutions. Over the years, I’ve honed my ability to work with diverse technologies, collaborate with cross-functional teams, and adapt to evolving industry trends.
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/tonyphatdo/">
-         <img alt="Linked profile" title="My Linkedin profile" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=linkedin"/>
-      </a>
-   </p>
+### Contact me:
+
+- <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-whatsapp-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-pack-logos-4642760.png?f=webp"/>: 0826240270
+
+ <!-- <p align="left">
+     <a href="https://www.linkedin.com/in/tonyphatdo/">
+        <img alt="Linked profile" title="My Linkedin profile" src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=linkedin"/>
+     </a>
+  </p> -->
 
 ---
 
