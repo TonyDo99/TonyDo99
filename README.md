@@ -6,7 +6,7 @@
 
 > I thrive in dynamic environments where I can leverage my problem-solving skills and attention to detail to deliver high-quality solutions. Over the years, I’ve honed my ability to work with diverse technologies, collaborate with cross-functional teams, and adapt to evolving industry trends.
 
-### :thought_balloon: Find me here:
+### :thought_balloon: Contact:
 
 <table>
   <tr>
